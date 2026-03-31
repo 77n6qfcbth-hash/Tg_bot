@@ -1,7 +1,7 @@
 import json
 import os
 import asyncio
-import Weather
+from Weather import WeatherService
 from aiogram import Bot, Dispatcher
 from aiogram.types import Message, Update
 from aiogram.filters import Command
