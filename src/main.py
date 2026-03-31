@@ -22,7 +22,7 @@ async def handler(event: dict, context):
     
     await dp.feed_update(
         bot,
-        Update.model_validate(update_data),
+        Update.model_validate(update_data)
     )
     
     return {"statusCode": 200, "body": "OK"}
