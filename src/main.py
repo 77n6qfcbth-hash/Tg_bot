@@ -70,12 +70,6 @@ async def handler(event: dict, context):
     return {"statusCode": 200, "body": "OK"}
     
 async def main():
-    print("Удаляем webhook...")
-
-    result = await bot.delete_webhook(drop_pending_updates=True)
-    print("Webhook удалён:", result)
-
-    print("Запуск polling...")
     await dp.start_polling(bot)
      
 if __name__ == "__main__":
