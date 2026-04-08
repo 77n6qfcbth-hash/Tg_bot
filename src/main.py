@@ -1,77 +1,63 @@
 import json
 import os
 import asyncio
+from aiogram import F
+from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher
-from aiogram.types import CallbackQuery, KeyboardButton, Message, ReplyKeyboardMarkup, Update
+from aiogram.types import BufferedInputFile, Message,  Update
 from aiogram.filters import Command
-from weather import (
-    get_weather,
-    weather_kb,
-    format_weather,
-    user_locations
-)
-
+from keyboards import main_kb, schedule_kb
+from image_generate import generate_week_image
+from shedule import get_today
+from weather import get_weather_text
+load_dotenv()
 BOT_TOKEN =os.getenv("BOT_TOKEN")
+WEATHER_TOKEN =os.getenv("WEATHER_TOKEN")
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 
-
-location_kb = ReplyKeyboardMarkup(
-    keyboard=[
-        [KeyboardButton(text="📍 Отправить геолокацию", request_location=True)]
-    ],
-    resize_keyboard=True
-)
-@dp.callback_query(lambda c: c.data == "weather_now")
-async def weather_now(callback: CallbackQuery):
-    user_id = callback.from_user.id
-
-    if user_id not in user_locations:
-        await callback.message.answer(
-            "Сначала отправь геолокацию 👇",
-            reply_markup=location_kb
-        )
-        return
-
-    lat, lon = user_locations[user_id]
-    data = await get_weather(lat, lon)
-
-    text = format_weather(data)
-
-    await callback.message.answer(text)
-    await callback.answer()
-
-
-#кнопка "локация" 
-@dp.callback_query(lambda c: c.data == "weather_location")
-async def location_request(callback: CallbackQuery):
-    await callback.message.answer(
-        "Отправь геолокацию 👇",
-        reply_markup=location_kb
-    )
-    await callback.answer()
-
-
-#геолокация 
-@dp.message()
-async def location_handler(message: Message):
-    if message.location:
-        user_id = message.from_user.id
-        lat = message.location.latitude
-        lon = message.location.longitude
-
-        user_locations[user_id] = (lat, lon)
-
-        await message.answer(
-            "Локация сохранена ✅",
-            reply_markup=weather_kb()
-        )
-
-    
 @dp.message(Command("start"))
 async def start_command(message: Message):
-    await message.answer("Привет!", reply_markup=weather_kb())
+    await message.answer("Привет!", reply_markup=main_kb)
+
+@dp.message(F.text == "📅 Расписание")
+async def schedule_menu(message: Message):
+    await message.answer("Выбери 👇", reply_markup=schedule_kb)
+    
+@dp.message(F.text == "⬅️ Назад")
+async def back_to_main(message: Message):
+    await message.answer("Главное меню 👇", reply_markup=main_kb)
+    
+@dp.message(F.text == "Сегодня")
+async def today_button(message: Message):
+    await message.answer(get_today())
+    
+@dp.message(F.text == "Неделя")
+async def week_button(message: Message):
+    bio = generate_week_image()
+
+    await message.answer_photo(
+        BufferedInputFile(bio.getvalue(), filename="week.png")
+    )
+  
+@dp.message(F.text == "🌤 Погода")
+async def weather_button(message: Message):
+    result = get_weather_text('Самара')
+    await message.answer(result)
+
+@dp.message()
+async def get_weather(message: Message):
+    if message.text in [
+        "📅 Расписание", "🌤 Погода",
+        "Сегодня", "Неделя", "⬅️ Назад"
+    ]:
+        return
+
+    city = message.text.strip()
+    result = get_weather_text(city)
+
+    await message.answer(result)
     
 async def handler(event: dict, context):
     body: str = event['body']
@@ -84,6 +70,12 @@ async def handler(event: dict, context):
     return {"statusCode": 200, "body": "OK"}
     
 async def main():
+    print("Удаляем webhook...")
+
+    result = await bot.delete_webhook(drop_pending_updates=True)
+    print("Webhook удалён:", result)
+
+    print("Запуск polling...")
     await dp.start_polling(bot)
      
 if __name__ == "__main__":

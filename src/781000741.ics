@@ -1,0 +1,4185 @@
+BEGIN:VCALENDAR
+PRODID:-//My Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание
+X-WR-TIMEZONE:Europe/Samara
+
+BEGIN:VEVENT
+DTSTART:20250901T111500Z
+DTEND:20250901T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250901T130000Z
+DTEND:20250901T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250902T073000Z
+DTEND:20250902T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250902T093000Z
+DTEND:20250902T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250905T093000Z
+DTEND:20250905T110500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250905T111500Z
+DTEND:20250905T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250905T130000Z
+DTEND:20250905T143500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250906T054500Z
+DTEND:20250906T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250908T111500Z
+DTEND:20250908T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250909T040000Z
+DTEND:20250909T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250909T040000Z
+DTEND:20250909T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250909T054500Z
+DTEND:20250909T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250909T054500Z
+DTEND:20250909T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250909T073000Z
+DTEND:20250909T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250909T093000Z
+DTEND:20250909T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250911T040000Z
+DTEND:20250911T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250911T054500Z
+DTEND:20250911T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250911T093000Z
+DTEND:20250911T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250911T111500Z
+DTEND:20250911T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250911T130000Z
+DTEND:20250911T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250912T054500Z
+DTEND:20250912T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250912T093000Z
+DTEND:20250912T110500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250912T111500Z
+DTEND:20250912T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250912T130000Z
+DTEND:20250912T143500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250913T054500Z
+DTEND:20250913T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250913T093000Z
+DTEND:20250913T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250915T093000Z
+DTEND:20250915T110500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Лекция / 430 - 14
+SUMMARY: 📗 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250915T111500Z
+DTEND:20250915T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250916T040000Z
+DTEND:20250916T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250916T040000Z
+DTEND:20250916T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250916T054500Z
+DTEND:20250916T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250916T054500Z
+DTEND:20250916T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250916T073000Z
+DTEND:20250916T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250916T093000Z
+DTEND:20250916T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250918T040000Z
+DTEND:20250918T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250918T073000Z
+DTEND:20250918T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250918T093000Z
+DTEND:20250918T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250919T111500Z
+DTEND:20250919T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250919T130000Z
+DTEND:20250919T143500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250920T040000Z
+DTEND:20250920T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250920T054500Z
+DTEND:20250920T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250920T073000Z
+DTEND:20250920T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Практика / online
+SUMMARY: 📕 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250920T093000Z
+DTEND:20250920T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250922T111500Z
+DTEND:20250922T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250923T040000Z
+DTEND:20250923T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250923T040000Z
+DTEND:20250923T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250923T054500Z
+DTEND:20250923T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250923T054500Z
+DTEND:20250923T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250923T073000Z
+DTEND:20250923T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250923T093000Z
+DTEND:20250923T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250925T040000Z
+DTEND:20250925T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250925T054500Z
+DTEND:20250925T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250925T093000Z
+DTEND:20250925T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250925T111500Z
+DTEND:20250925T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250925T130000Z
+DTEND:20250925T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250926T111500Z
+DTEND:20250926T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250926T130000Z
+DTEND:20250926T143500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250927T040000Z
+DTEND:20250927T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250927T054500Z
+DTEND:20250927T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250927T093000Z
+DTEND:20250927T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250929T073000Z
+DTEND:20250929T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250929T111500Z
+DTEND:20250929T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250930T040000Z
+DTEND:20250930T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250930T040000Z
+DTEND:20250930T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250930T054500Z
+DTEND:20250930T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250930T054500Z
+DTEND:20250930T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250930T073000Z
+DTEND:20250930T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20250930T093000Z
+DTEND:20250930T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251002T040000Z
+DTEND:20251002T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251002T073000Z
+DTEND:20251002T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251002T093000Z
+DTEND:20251002T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251003T111500Z
+DTEND:20251003T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251003T130000Z
+DTEND:20251003T143500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251004T040000Z
+DTEND:20251004T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251004T073000Z
+DTEND:20251004T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Практика / online
+SUMMARY: 📕 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251004T093000Z
+DTEND:20251004T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251006T073000Z
+DTEND:20251006T090500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251006T111500Z
+DTEND:20251006T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251007T040000Z
+DTEND:20251007T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251007T040000Z
+DTEND:20251007T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251007T054500Z
+DTEND:20251007T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251007T054500Z
+DTEND:20251007T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251007T073000Z
+DTEND:20251007T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251007T093000Z
+DTEND:20251007T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251009T040000Z
+DTEND:20251009T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251009T054500Z
+DTEND:20251009T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251009T093000Z
+DTEND:20251009T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251009T111500Z
+DTEND:20251009T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251009T130000Z
+DTEND:20251009T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251010T130000Z
+DTEND:20251010T143500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251011T040000Z
+DTEND:20251011T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251011T054500Z
+DTEND:20251011T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251011T073000Z
+DTEND:20251011T090500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251011T093000Z
+DTEND:20251011T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251013T073000Z
+DTEND:20251013T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251013T111500Z
+DTEND:20251013T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251014T040000Z
+DTEND:20251014T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251014T040000Z
+DTEND:20251014T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251014T054500Z
+DTEND:20251014T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251014T054500Z
+DTEND:20251014T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251014T073000Z
+DTEND:20251014T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251014T093000Z
+DTEND:20251014T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251016T040000Z
+DTEND:20251016T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251016T073000Z
+DTEND:20251016T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251016T093000Z
+DTEND:20251016T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251017T111500Z
+DTEND:20251017T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251017T130000Z
+DTEND:20251017T143500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251018T040000Z
+DTEND:20251018T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251018T054500Z
+DTEND:20251018T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251018T073000Z
+DTEND:20251018T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Практика / online
+SUMMARY: 📕 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251018T093000Z
+DTEND:20251018T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251020T073000Z
+DTEND:20251020T090500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251020T111500Z
+DTEND:20251020T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251021T040000Z
+DTEND:20251021T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251021T040000Z
+DTEND:20251021T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251021T054500Z
+DTEND:20251021T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251021T054500Z
+DTEND:20251021T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251021T073000Z
+DTEND:20251021T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251021T093000Z
+DTEND:20251021T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251023T040000Z
+DTEND:20251023T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251023T054500Z
+DTEND:20251023T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251023T093000Z
+DTEND:20251023T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251023T111500Z
+DTEND:20251023T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251023T130000Z
+DTEND:20251023T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251024T111500Z
+DTEND:20251024T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251025T040000Z
+DTEND:20251025T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251025T054500Z
+DTEND:20251025T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251025T073000Z
+DTEND:20251025T090500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251025T093000Z
+DTEND:20251025T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251027T073000Z
+DTEND:20251027T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251027T111500Z
+DTEND:20251027T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251028T040000Z
+DTEND:20251028T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251028T040000Z
+DTEND:20251028T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251028T054500Z
+DTEND:20251028T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251028T054500Z
+DTEND:20251028T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251028T073000Z
+DTEND:20251028T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251028T093000Z
+DTEND:20251028T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251030T040000Z
+DTEND:20251030T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251030T073000Z
+DTEND:20251030T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251030T093000Z
+DTEND:20251030T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251031T111500Z
+DTEND:20251031T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251031T130000Z
+DTEND:20251031T143500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251101T040000Z
+DTEND:20251101T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251101T054500Z
+DTEND:20251101T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251101T073000Z
+DTEND:20251101T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Практика / online
+SUMMARY: 📕 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251101T093000Z
+DTEND:20251101T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251103T040000Z
+DTEND:20251103T053500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251103T111500Z
+DTEND:20251103T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251106T040000Z
+DTEND:20251106T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251106T054500Z
+DTEND:20251106T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251106T093000Z
+DTEND:20251106T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251106T111500Z
+DTEND:20251106T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251106T130000Z
+DTEND:20251106T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251107T111500Z
+DTEND:20251107T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251108T040000Z
+DTEND:20251108T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251108T054500Z
+DTEND:20251108T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251108T073000Z
+DTEND:20251108T090500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251108T093000Z
+DTEND:20251108T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251110T073000Z
+DTEND:20251110T090500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251110T111500Z
+DTEND:20251110T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251111T040000Z
+DTEND:20251111T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251111T040000Z
+DTEND:20251111T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251111T054500Z
+DTEND:20251111T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251111T054500Z
+DTEND:20251111T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251111T073000Z
+DTEND:20251111T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251111T093000Z
+DTEND:20251111T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251113T040000Z
+DTEND:20251113T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251113T073000Z
+DTEND:20251113T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251113T093000Z
+DTEND:20251113T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251114T111500Z
+DTEND:20251114T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251115T040000Z
+DTEND:20251115T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251115T054500Z
+DTEND:20251115T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251115T073000Z
+DTEND:20251115T090500Z
+DESCRIPTION:Бондарчук Елена Михайловна
+LOCATION:Практика / online
+SUMMARY: 📕 Культура речи и русский язык в академической и профессиональной коммуникации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251115T093000Z
+DTEND:20251115T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251117T040000Z
+DTEND:20251117T053500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251117T111500Z
+DTEND:20251117T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251118T040000Z
+DTEND:20251118T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251118T040000Z
+DTEND:20251118T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251118T054500Z
+DTEND:20251118T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251118T054500Z
+DTEND:20251118T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251118T073000Z
+DTEND:20251118T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251118T093000Z
+DTEND:20251118T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251120T040000Z
+DTEND:20251120T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251120T054500Z
+DTEND:20251120T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251120T093000Z
+DTEND:20251120T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251120T111500Z
+DTEND:20251120T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251120T130000Z
+DTEND:20251120T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251121T111500Z
+DTEND:20251121T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251122T040000Z
+DTEND:20251122T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251122T054500Z
+DTEND:20251122T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251122T073000Z
+DTEND:20251122T090500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251122T093000Z
+DTEND:20251122T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251124T073000Z
+DTEND:20251124T090500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251124T111500Z
+DTEND:20251124T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251125T040000Z
+DTEND:20251125T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251125T040000Z
+DTEND:20251125T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251125T054500Z
+DTEND:20251125T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251125T054500Z
+DTEND:20251125T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251125T073000Z
+DTEND:20251125T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251125T093000Z
+DTEND:20251125T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251127T040000Z
+DTEND:20251127T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251127T073000Z
+DTEND:20251127T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251127T093000Z
+DTEND:20251127T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251128T111500Z
+DTEND:20251128T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251129T040000Z
+DTEND:20251129T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251129T054500Z
+DTEND:20251129T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251129T093000Z
+DTEND:20251129T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251201T040000Z
+DTEND:20251201T053500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251201T111500Z
+DTEND:20251201T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251202T040000Z
+DTEND:20251202T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251202T040000Z
+DTEND:20251202T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251202T054500Z
+DTEND:20251202T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251202T054500Z
+DTEND:20251202T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251202T073000Z
+DTEND:20251202T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251202T093000Z
+DTEND:20251202T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251204T040000Z
+DTEND:20251204T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251204T054500Z
+DTEND:20251204T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251204T093000Z
+DTEND:20251204T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251204T111500Z
+DTEND:20251204T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 1
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251204T130000Z
+DTEND:20251204T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251205T111500Z
+DTEND:20251205T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251206T040000Z
+DTEND:20251206T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251206T054500Z
+DTEND:20251206T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251206T073000Z
+DTEND:20251206T090500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251206T093000Z
+DTEND:20251206T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251208T073000Z
+DTEND:20251208T090500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251208T111500Z
+DTEND:20251208T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251209T040000Z
+DTEND:20251209T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251209T040000Z
+DTEND:20251209T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251209T054500Z
+DTEND:20251209T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251209T054500Z
+DTEND:20251209T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251209T073000Z
+DTEND:20251209T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251209T093000Z
+DTEND:20251209T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251211T040000Z
+DTEND:20251211T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251211T073000Z
+DTEND:20251211T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251211T093000Z
+DTEND:20251211T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251212T111500Z
+DTEND:20251212T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251213T040000Z
+DTEND:20251213T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251213T054500Z
+DTEND:20251213T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251213T093000Z
+DTEND:20251213T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251215T040000Z
+DTEND:20251215T053500Z
+DESCRIPTION:Соловьева Яна Владимировна
+LOCATION:Лекция / online
+SUMMARY: 📗 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251215T111500Z
+DTEND:20251215T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251216T040000Z
+DTEND:20251216T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251216T040000Z
+DTEND:20251216T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251216T054500Z
+DTEND:20251216T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251216T054500Z
+DTEND:20251216T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251216T073000Z
+DTEND:20251216T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251216T093000Z
+DTEND:20251216T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251218T040000Z
+DTEND:20251218T053500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251218T054500Z
+DTEND:20251218T072000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251218T093000Z
+DTEND:20251218T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251218T111500Z
+DTEND:20251218T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич\nПодгруппа: 2
+LOCATION:Лаба / 509 - 14
+SUMMARY: 📘 Специальный курс по Python (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251218T130000Z
+DTEND:20251218T143500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Практика / 430 - 14
+SUMMARY: 📕 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251219T111500Z
+DTEND:20251219T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Лекция / online
+SUMMARY: 📗 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251220T040000Z
+DTEND:20251220T053500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251220T054500Z
+DTEND:20251220T072000Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / online
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251220T073000Z
+DTEND:20251220T090500Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251220T093000Z
+DTEND:20251220T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251222T111500Z
+DTEND:20251222T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251223T040000Z
+DTEND:20251223T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251223T040000Z
+DTEND:20251223T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251223T054500Z
+DTEND:20251223T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251223T054500Z
+DTEND:20251223T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251223T073000Z
+DTEND:20251223T090500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Лекция / online
+SUMMARY: 📗 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251223T093000Z
+DTEND:20251223T110500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251225T040000Z
+DTEND:20251225T053500Z
+DESCRIPTION:Колоденкова Анна Евгеньевна
+LOCATION:Практика / 419 - 14
+SUMMARY: 📕 Методы оптимизации и исследование операций 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251225T073000Z
+DTEND:20251225T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251225T093000Z
+DTEND:20251225T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Технологии проектирования информационно-вычислительных систем (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251227T054500Z
+DTEND:20251227T072000Z
+DESCRIPTION:Кудрина Мария Александровна
+LOCATION:Практика / online
+SUMMARY: 📕 Теория информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251229T111500Z
+DTEND:20251229T125000Z
+DESCRIPTION:
+LOCATION:Практика / Спорткомплекс - 6
+SUMMARY: 📕 Элективные курсы по физической культуре и спорту 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251230T040000Z
+DTEND:20251230T053500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251230T040000Z
+DTEND:20251230T053500Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251230T054500Z
+DTEND:20251230T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 ЭВМ и периферийные устройства (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20251230T054500Z
+DTEND:20251230T072000Z
+DESCRIPTION:Пигусов Андрей Сергеевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Компьютерные сети (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260109T073000Z
+DTEND:20260109T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Консультация / online
+SUMMARY: 🗨 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260110T073000Z
+DTEND:20260110T090500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Экзамен / 423 - 14
+SUMMARY: 💀 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260110T093000Z
+DTEND:20260110T110500Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Экзамен / 423 - 14
+SUMMARY: 💀 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260110T111500Z
+DTEND:20260110T125000Z
+DESCRIPTION:Мезенцева Екатерина Михайловна
+LOCATION:Экзамен / 423 - 14
+SUMMARY: 💀 Технологии проектирования информационно-вычислительных систем 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260114T073000Z
+DTEND:20260114T090500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Консультация / online
+SUMMARY: 🗨 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260115T073000Z
+DTEND:20260115T090500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Экзамен / 430 - 14
+SUMMARY: 💀 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260115T093000Z
+DTEND:20260115T110500Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Экзамен / 430 - 14
+SUMMARY: 💀 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260115T111500Z
+DTEND:20260115T125000Z
+DESCRIPTION:Литвинов Владимир Геннадьевич
+LOCATION:Экзамен / 430 - 14
+SUMMARY: 💀 Специальный курс по Python 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260119T054500Z
+DTEND:20260119T072000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна
+LOCATION:Консультация / online
+SUMMARY: 🗨 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260120T093000Z
+DTEND:20260120T110500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна
+LOCATION:Экзамен / 423 - 14
+SUMMARY: 💀 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260120T111500Z
+DTEND:20260120T125000Z
+DESCRIPTION:Муравьева Екатерина Валерьевна
+LOCATION:Экзамен / 423 - 14
+SUMMARY: 💀 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260120T130000Z
+DTEND:20260120T143500Z
+DESCRIPTION:Муравьева Екатерина Валерьевна
+LOCATION:Экзамен / 423 - 14
+SUMMARY: 💀 ЭВМ и периферийные устройства 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260123T054500Z
+DTEND:20260123T072000Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Консультация / online
+SUMMARY: 🗨 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260124T054500Z
+DTEND:20260124T072000Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Экзамен / 314 - 15
+SUMMARY: 💀 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260124T073000Z
+DTEND:20260124T090500Z
+DESCRIPTION:Еленев Дмитрий Валерьевич
+LOCATION:Экзамен / 314 - 15
+SUMMARY: 💀 Компьютерные сети 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260203T040000Z
+DTEND:20260203T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260203T054500Z
+DTEND:20260203T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260205T054500Z
+DTEND:20260205T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260205T073000Z
+DTEND:20260205T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260205T093000Z
+DTEND:20260205T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260206T111500Z
+DTEND:20260206T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260206T130000Z
+DTEND:20260206T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260209T040000Z
+DTEND:20260209T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260209T040000Z
+DTEND:20260209T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260209T054500Z
+DTEND:20260209T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260209T054500Z
+DTEND:20260209T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260209T073000Z
+DTEND:20260209T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260209T093000Z
+DTEND:20260209T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260212T040000Z
+DTEND:20260212T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260212T054500Z
+DTEND:20260212T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260212T073000Z
+DTEND:20260212T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260213T130000Z
+DTEND:20260213T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260216T040000Z
+DTEND:20260216T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260216T040000Z
+DTEND:20260216T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260216T054500Z
+DTEND:20260216T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260216T054500Z
+DTEND:20260216T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260216T111500Z
+DTEND:20260216T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260216T130000Z
+DTEND:20260216T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260217T040000Z
+DTEND:20260217T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260217T054500Z
+DTEND:20260217T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260217T111500Z
+DTEND:20260217T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260217T130000Z
+DTEND:20260217T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260219T040000Z
+DTEND:20260219T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260219T054500Z
+DTEND:20260219T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260219T073000Z
+DTEND:20260219T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260219T093000Z
+DTEND:20260219T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260219T111500Z
+DTEND:20260219T125000Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260221T054500Z
+DTEND:20260221T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы исскуственного интеллекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260221T073000Z
+DTEND:20260221T090500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы исскуственного интеллекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260221T130000Z
+DTEND:20260221T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260224T040000Z
+DTEND:20260224T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260224T054500Z
+DTEND:20260224T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260226T040000Z
+DTEND:20260226T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260226T054500Z
+DTEND:20260226T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260226T073000Z
+DTEND:20260226T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260302T040000Z
+DTEND:20260302T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260302T040000Z
+DTEND:20260302T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260302T054500Z
+DTEND:20260302T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260302T054500Z
+DTEND:20260302T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260302T111500Z
+DTEND:20260302T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260302T130000Z
+DTEND:20260302T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260303T040000Z
+DTEND:20260303T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260303T054500Z
+DTEND:20260303T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260303T111500Z
+DTEND:20260303T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260303T130000Z
+DTEND:20260303T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260305T040000Z
+DTEND:20260305T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260305T073000Z
+DTEND:20260305T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260305T093000Z
+DTEND:20260305T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260305T111500Z
+DTEND:20260305T125000Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260307T054500Z
+DTEND:20260307T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы исскуственного интеллекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260307T073000Z
+DTEND:20260307T090500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы исскуственного интеллекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260307T130000Z
+DTEND:20260307T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260310T040000Z
+DTEND:20260310T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260310T054500Z
+DTEND:20260310T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260312T040000Z
+DTEND:20260312T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260312T054500Z
+DTEND:20260312T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260312T073000Z
+DTEND:20260312T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260312T093000Z
+DTEND:20260312T110500Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260313T130000Z
+DTEND:20260313T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T040000Z
+DTEND:20260316T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T054500Z
+DTEND:20260316T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T073000Z
+DTEND:20260316T090500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T093000Z
+DTEND:20260316T110500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T111500Z
+DTEND:20260316T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260316T130000Z
+DTEND:20260316T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260317T040000Z
+DTEND:20260317T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260317T054500Z
+DTEND:20260317T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260317T111500Z
+DTEND:20260317T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260317T130000Z
+DTEND:20260317T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260319T040000Z
+DTEND:20260319T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260319T054500Z
+DTEND:20260319T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260319T073000Z
+DTEND:20260319T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260319T093000Z
+DTEND:20260319T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260319T111500Z
+DTEND:20260319T125000Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T054500Z
+DTEND:20260320T072000Z
+DESCRIPTION:
+LOCATION:Прочее / Холл - адм
+SUMMARY: 📙 Фестиваль карьеры 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T073000Z
+DTEND:20260320T090500Z
+DESCRIPTION:
+LOCATION:Прочее / Холл - адм
+SUMMARY: 📙 Фестиваль карьеры 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T093000Z
+DTEND:20260320T110500Z
+DESCRIPTION:
+LOCATION:Прочее / Холл - адм
+SUMMARY: 📙 Фестиваль карьеры 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260320T111500Z
+DTEND:20260320T125000Z
+DESCRIPTION:
+LOCATION:Прочее / Холл - адм
+SUMMARY: 📙 Фестиваль карьеры 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260321T130000Z
+DTEND:20260321T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T040000Z
+DTEND:20260323T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T040000Z
+DTEND:20260323T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T054500Z
+DTEND:20260323T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T054500Z
+DTEND:20260323T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T073000Z
+DTEND:20260323T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260323T093000Z
+DTEND:20260323T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260324T040000Z
+DTEND:20260324T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260324T054500Z
+DTEND:20260324T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260326T054500Z
+DTEND:20260326T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260326T073000Z
+DTEND:20260326T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260326T093000Z
+DTEND:20260326T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260326T130000Z
+DTEND:20260326T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260327T130000Z
+DTEND:20260327T143500Z
+DESCRIPTION:Цапенко Михаил Владимирович
+LOCATION:Лекция / online
+SUMMARY: 📗 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T040000Z
+DTEND:20260330T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T054500Z
+DTEND:20260330T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T073000Z
+DTEND:20260330T090500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T093000Z
+DTEND:20260330T110500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T111500Z
+DTEND:20260330T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260330T130000Z
+DTEND:20260330T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260331T040000Z
+DTEND:20260331T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260331T054500Z
+DTEND:20260331T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260331T111500Z
+DTEND:20260331T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260331T130000Z
+DTEND:20260331T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260402T040000Z
+DTEND:20260402T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260402T054500Z
+DTEND:20260402T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260402T073000Z
+DTEND:20260402T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260402T093000Z
+DTEND:20260402T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260404T130000Z
+DTEND:20260404T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T040000Z
+DTEND:20260406T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T040000Z
+DTEND:20260406T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T054500Z
+DTEND:20260406T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T054500Z
+DTEND:20260406T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T073000Z
+DTEND:20260406T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260406T093000Z
+DTEND:20260406T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T040000Z
+DTEND:20260407T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260407T054500Z
+DTEND:20260407T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T054500Z
+DTEND:20260409T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T073000Z
+DTEND:20260409T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T093000Z
+DTEND:20260409T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260409T130000Z
+DTEND:20260409T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260410T130000Z
+DTEND:20260410T143500Z
+DESCRIPTION:Цапенко Михаил Владимирович
+LOCATION:Лекция / online
+SUMMARY: 📗 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260411T073000Z
+DTEND:20260411T090500Z
+DESCRIPTION:Коростелева Татьяна Сергеевна
+LOCATION:Практика / online
+SUMMARY: 📕 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260413T040000Z
+DTEND:20260413T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260413T054500Z
+DTEND:20260413T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260413T073000Z
+DTEND:20260413T090500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260413T093000Z
+DTEND:20260413T110500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260413T111500Z
+DTEND:20260413T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260413T130000Z
+DTEND:20260413T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260414T040000Z
+DTEND:20260414T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260414T054500Z
+DTEND:20260414T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260414T111500Z
+DTEND:20260414T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260414T130000Z
+DTEND:20260414T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260416T040000Z
+DTEND:20260416T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260416T054500Z
+DTEND:20260416T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260416T073000Z
+DTEND:20260416T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260416T093000Z
+DTEND:20260416T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260416T111500Z
+DTEND:20260416T125000Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260418T130000Z
+DTEND:20260418T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260420T040000Z
+DTEND:20260420T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260420T040000Z
+DTEND:20260420T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260420T054500Z
+DTEND:20260420T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260420T054500Z
+DTEND:20260420T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260420T073000Z
+DTEND:20260420T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260420T093000Z
+DTEND:20260420T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260421T040000Z
+DTEND:20260421T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260421T054500Z
+DTEND:20260421T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260423T054500Z
+DTEND:20260423T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260423T073000Z
+DTEND:20260423T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260423T093000Z
+DTEND:20260423T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260423T130000Z
+DTEND:20260423T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260424T130000Z
+DTEND:20260424T143500Z
+DESCRIPTION:Цапенко Михаил Владимирович
+LOCATION:Лекция / online
+SUMMARY: 📗 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260425T073000Z
+DTEND:20260425T090500Z
+DESCRIPTION:Коростелева Татьяна Сергеевна
+LOCATION:Практика / online
+SUMMARY: 📕 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260427T040000Z
+DTEND:20260427T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260427T054500Z
+DTEND:20260427T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260427T073000Z
+DTEND:20260427T090500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260427T093000Z
+DTEND:20260427T110500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260427T111500Z
+DTEND:20260427T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260427T130000Z
+DTEND:20260427T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260428T040000Z
+DTEND:20260428T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260428T054500Z
+DTEND:20260428T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260428T111500Z
+DTEND:20260428T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260428T130000Z
+DTEND:20260428T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260430T040000Z
+DTEND:20260430T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260430T054500Z
+DTEND:20260430T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260430T073000Z
+DTEND:20260430T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260430T093000Z
+DTEND:20260430T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260430T111500Z
+DTEND:20260430T125000Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260502T130000Z
+DTEND:20260502T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260504T040000Z
+DTEND:20260504T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260504T040000Z
+DTEND:20260504T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260504T054500Z
+DTEND:20260504T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260504T054500Z
+DTEND:20260504T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260504T073000Z
+DTEND:20260504T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260504T093000Z
+DTEND:20260504T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260505T040000Z
+DTEND:20260505T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260505T054500Z
+DTEND:20260505T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260507T054500Z
+DTEND:20260507T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260507T073000Z
+DTEND:20260507T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260507T093000Z
+DTEND:20260507T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260508T130000Z
+DTEND:20260508T143500Z
+DESCRIPTION:Цапенко Михаил Владимирович
+LOCATION:Лекция / online
+SUMMARY: 📗 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260511T040000Z
+DTEND:20260511T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260511T054500Z
+DTEND:20260511T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260511T073000Z
+DTEND:20260511T090500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260511T093000Z
+DTEND:20260511T110500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260511T111500Z
+DTEND:20260511T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260511T130000Z
+DTEND:20260511T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260512T040000Z
+DTEND:20260512T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260512T054500Z
+DTEND:20260512T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260512T111500Z
+DTEND:20260512T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260512T130000Z
+DTEND:20260512T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 1
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260514T054500Z
+DTEND:20260514T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260514T073000Z
+DTEND:20260514T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260514T093000Z
+DTEND:20260514T110500Z
+DESCRIPTION:Привалов Александр Юрьевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системное программирование 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260516T073000Z
+DTEND:20260516T090500Z
+DESCRIPTION:Коростелева Татьяна Сергеевна
+LOCATION:Практика / online
+SUMMARY: 📕 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260516T130000Z
+DTEND:20260516T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260518T040000Z
+DTEND:20260518T053500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260518T040000Z
+DTEND:20260518T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260518T054500Z
+DTEND:20260518T072000Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 1
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260518T054500Z
+DTEND:20260518T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 2
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260518T073000Z
+DTEND:20260518T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260518T093000Z
+DTEND:20260518T110500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 1
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260519T040000Z
+DTEND:20260519T053500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260519T054500Z
+DTEND:20260519T072000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / online
+SUMMARY: 📘 Защита информации (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260521T054500Z
+DTEND:20260521T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы искусственного интелекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260521T073000Z
+DTEND:20260521T090500Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Защита информации 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260521T093000Z
+DTEND:20260521T110500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260521T111500Z
+DTEND:20260521T125000Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260522T111500Z
+DTEND:20260522T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260522T130000Z
+DTEND:20260522T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260523T073000Z
+DTEND:20260523T090500Z
+DESCRIPTION:Коростелева Татьяна Сергеевна
+LOCATION:Практика / online
+SUMMARY: 📕 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260525T040000Z
+DTEND:20260525T053500Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260525T054500Z
+DTEND:20260525T072000Z
+DESCRIPTION:Солдатова Ольга Петровна\nПодгруппа: 1
+LOCATION:Лаба / 423 - 14
+SUMMARY: 📘 Системы искусственного интелекта (1)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260525T073000Z
+DTEND:20260525T090500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260525T093000Z
+DTEND:20260525T110500Z
+DESCRIPTION:Тарасов Артем Алексеевич\nПодгруппа: 2
+LOCATION:Лаба / 510 - 14
+SUMMARY: 📘 Микропроцессорные средства и системы (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260525T111500Z
+DTEND:20260525T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260525T130000Z
+DTEND:20260525T143500Z
+DESCRIPTION:Климентьев Константин Евгеньевич\nПодгруппа: 2
+LOCATION:Лаба / 512 - 14
+SUMMARY: 📘 Системы реального времени (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260526T111500Z
+DTEND:20260526T125000Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260526T130000Z
+DTEND:20260526T143500Z
+DESCRIPTION:Привалов Александр Юрьевич\nПодгруппа: 2
+LOCATION:Лаба / 511 - 14
+SUMMARY: 📘 Системное программирование (2)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260528T111500Z
+DTEND:20260528T125000Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260528T130000Z
+DTEND:20260528T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260529T111500Z
+DTEND:20260529T125000Z
+DESCRIPTION:Климентьев Константин Евгеньевич
+LOCATION:Лекция / online
+SUMMARY: 📗 Системы реального времени 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260529T130000Z
+DTEND:20260529T143500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Лекция / online
+SUMMARY: 📗 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260530T073000Z
+DTEND:20260530T090500Z
+DESCRIPTION:Коростелева Татьяна Сергеевна
+LOCATION:Практика / online
+SUMMARY: 📕 Инновационная экономика и технологическое предпринимательство 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260601T073000Z
+DTEND:20260601T090500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Консультация / online
+SUMMARY: 🗨 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260602T073000Z
+DTEND:20260602T090500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Экзамен / 421 - 14
+SUMMARY: 💀 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260602T093000Z
+DTEND:20260602T110500Z
+DESCRIPTION:Ворох Дмитрий Александрович
+LOCATION:Экзамен / 421 - 14
+SUMMARY: 💀 Микропроцессорные средства и системы 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260605T054500Z
+DTEND:20260605T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Консультация / online
+SUMMARY: 🗨 Системы искусственного интеллекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260606T054500Z
+DTEND:20260606T072000Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Экзамен / 430 - 14
+SUMMARY: 💀 Системы искусственного интеллекта 
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260606T073000Z
+DTEND:20260606T090500Z
+DESCRIPTION:Солдатова Ольга Петровна
+LOCATION:Экзамен / 430 - 14
+SUMMARY: 💀 Системы искусственного интеллекта 
+END:VEVENT
+
+END:VCALENDAR

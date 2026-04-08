@@ -1,57 +1,57 @@
-import aiohttp
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-user_locations = {}
-async def get_weather(lat: float, lon: float):
-    url = "https://api.open-meteo.com/v1/forecast"
-    params = {
-        "latitude": lat,
-        "longitude": lon,
-        "current_weather": True
-    }
-
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url, params=params) as resp:
-            data = await resp.json()
-            return data.get("current_weather")
+import datetime
+import math
+from dotenv import load_dotenv
+import requests
+import os
+load_dotenv()
+WEATHER_TOKEN = os.getenv("WEATHER_TOKEN")
 
 
-def weather_text(code: int):
-    match code:
-        case 0:
-            return "Ясно ☀️"
+def get_weather_text(city_name: str) -> str:
+    try:
+        response = requests.get(
+            f"http://api.openweathermap.org/data/2.5/weather?q={city_name}&lang=ru&units=metric&appid={WEATHER_TOKEN}"
+        )
+        data = response.json()
+        
+        if data.get("cod") != 200:
+            return "❌ Город не найден"
 
-        case 1 | 2 | 3:
-            return "Облачно ☁️"
+        city = data["name"]
+        cur_temp = data["main"]["temp"]
+        humidity = data["main"]["humidity"]
+        pressure = data["main"]["pressure"]
+        wind = data["wind"]["speed"]
 
-        case c if 45 <= c <= 48:
-            return "Туман 🌫"
+        sunrise_timestamp = datetime.datetime.fromtimestamp(data["sys"]["sunrise"])
+        sunset_timestamp = datetime.datetime.fromtimestamp(data["sys"]["sunset"])
+        length_of_the_day = sunset_timestamp - sunrise_timestamp
 
-        case c if 51 <= c <= 67:
-            return "Дождь 🌧"
+        code_to_smile = {
+            "Clear": "Ясно ☀️",
+            "Clouds": "Облачно ☁️",
+            "Rain": "Дождь 🌧",
+            "Drizzle": "Дождь 🌧",
+            "Thunderstorm": "Гроза ⚡",
+            "Snow": "Снег ❄️",
+            "Mist": "Туман 🌫"
+        }
 
-        case c if 71 <= c <= 77:
-            return "Снег ❄️"
+        weather_description = data["weather"][0]["main"]
+        wd = code_to_smile.get(weather_description, "🤷‍♂️")
 
-        case c if c >= 95:
-            return "Гроза ⛈"
+        return (
+            f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}\n"
+            f"Погода в городе: {city}\n"
+            f"Температура: {cur_temp}°C {wd}\n"
+            f"Влажность: {humidity}%\n"
+            f"Давление: {math.ceil(pressure / 1.333)} мм.рт.ст\n"
+            f"Ветер: {wind} м/с\n"
+            f"Восход: {sunrise_timestamp}\n"
+            f"Закат: {sunset_timestamp}\n"
+            f"Длительность дня: {length_of_the_day}"
+        )
 
-        case _:
-            return "Неизвестно 🤷"
-
-
-def weather_kb():
-    return InlineKeyboardMarkup(inline_keyboard=[
-        [
-            InlineKeyboardButton(text="🌤 Сейчас", callback_data="weather_now"),
-            InlineKeyboardButton(text="📅 Прогноз", callback_data="weather_forecast")
-        ],
-        [
-            InlineKeyboardButton(text="📍 Обновить локацию", callback_data="weather_location")
-        ]
-    ])
-
-def format_weather(data):
-    return f"""🌤 Сейчас
-        🌡 {data['temperature']}°C
-        💨 Ветер: {data['windspeed']} км/ч
-        ☁️ {weather_text(data['weathercode'])}"""
+    except Exception as e:
+        print(e)
+        return "❌ Ошибка при получении погоды"
