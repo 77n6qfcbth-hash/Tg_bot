@@ -1,3 +1,5 @@
+import os
+
 from PIL import Image, ImageDraw, ImageFont
 from shedule import get_next_days, get_events_by_date
 import io
@@ -16,15 +18,13 @@ TYPE_COLORS = {
     "📘": "#2196F3",  # лаба
 }
 
-# шрифты
-try:
-    font_title = ImageFont.truetype("arial.ttf", 40)
-    font_day = ImageFont.truetype("arial.ttf", 26)
-    font_text = ImageFont.truetype("arial.ttf", 22)
-except:
-    font_title = ImageFont.load_default()
-    font_day = ImageFont.load_default()
-    font_text = ImageFont.load_default()
+
+base_dir = os.path.dirname(__file__)
+font_path = os.path.join(base_dir, "fonts", "DejaVuSans.ttf")
+
+font_title = ImageFont.truetype(font_path, 40)
+font_day = ImageFont.truetype(font_path, 26)
+font_text = ImageFont.truetype(font_path, 22)
 
 
 def draw_card(draw, x, y, w, h, color):
