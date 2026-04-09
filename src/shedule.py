@@ -28,13 +28,41 @@ def format_events(events, title=""):
 
     for event in events:
         text += (
-            f"🕐 {event.begin.strftime('%H:%M')} - {event.end.strftime('%H:%M')}\n"
+            f"🕐 {event.begin.to('Europe/Samara').strftime('%H:%M')} - {event.begin.to('Europe/Samara').strftime('%H:%M')}\n"
             f"📘 {event.name}\n"
             f"📍 {event.location}\n"
             f"👨‍🏫 {event.description}\n\n"
         )
 
     return text
+
+def parse_location(location: str):
+    if not location:
+        return "other", "—"
+
+    parts = location.split("/")
+
+    type_part = parts[0].strip().lower()
+    place_part = parts[1].strip() if len(parts) > 1 else "—"
+
+    if "лек" in type_part:
+        event_type = "lecture"
+    elif "лаб" in type_part:
+        event_type = "lab"
+    elif "прак" in type_part:
+        event_type = "practice"
+    else:
+        event_type = "other"
+
+    return event_type, place_part
+
+
+COLOR_MAP = {
+    "lecture": "#4CAF50",
+    "practice": "#FF9800",
+    "lab": "#2196F3",
+    "other": "#999999"
+}
 
 def get_next_days(n=7):
     today = datetime.date.today()

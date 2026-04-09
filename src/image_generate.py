@@ -1,7 +1,7 @@
 import os
 
 from PIL import Image, ImageDraw, ImageFont
-from shedule import get_next_days, get_events_by_date
+from shedule import get_next_days, get_events_by_date, parse_location, COLOR_MAP
 import io
 
 WIDTH = 900
@@ -61,9 +61,8 @@ def generate_week_image():
         for event in events:
             card_height = 90
 
-            # цвет по типу
-            emoji = event.name.strip()[0]
-            color = TYPE_COLORS.get(emoji, "#999999")
+            event_type, place = parse_location(event.location)
+            color = COLOR_MAP[event_type]
 
             # карточка
             draw_card(draw, PADDING, y, WIDTH - 2 * PADDING, card_height, CARD_COLOR)
@@ -71,7 +70,7 @@ def generate_week_image():
             # цветная полоска
             draw.rectangle(
                 (PADDING, y, PADDING + 10, y + card_height),
-                fill=color
+                fill=color,
             )
 
             # время
@@ -79,7 +78,7 @@ def generate_week_image():
                 (PADDING + 20, y + 10),
                 f"{event.begin.to('Europe/Samara').strftime('%H:%M')} - {event.end.to('Europe/Samara').strftime('%H:%M')}",
                 font=font_text,
-                fill=TEXT_COLOR
+                fill=TEXT_COLOR,
             )
 
             # предмет
@@ -87,8 +86,14 @@ def generate_week_image():
                 (PADDING + 20, y + 40),
                 event.name[:40],
                 font=font_text,
-                fill=TEXT_COLOR
+                fill=TEXT_COLOR,
             )
+            draw.text(
+                (PADDING + 20, y + 65),
+                f"Кабинет: {place}",
+                font=font_text,
+                fill="gray",
+                )
 
             y += card_height + 10
 
@@ -96,7 +101,7 @@ def generate_week_image():
 
 
     bio = io.BytesIO()
-    bio.name = "week.png"  # важно!
+    bio.name = "week.png"  
     img.save(bio, "PNG")
     bio.seek(0)
 
