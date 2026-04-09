@@ -12,13 +12,6 @@ BG_COLOR = "#f5f7fb"
 CARD_COLOR = "#ffffff"
 TEXT_COLOR = "#1e1e1e"
 
-TYPE_COLORS = {
-    "📗": "#4CAF50",  # лекция
-    "📕": "#FF9800",  # практика
-    "📘": "#2196F3",  # лаба
-}
-
-
 base_dir = os.path.dirname(__file__)
 font_path = os.path.join(base_dir, "fonts", "DejaVuSans.ttf")
 
@@ -42,7 +35,7 @@ def generate_week_image():
     y = PADDING
 
     # заголовок
-    draw.text((PADDING, y), "📅 Расписание на неделю", font=font_title, fill=TEXT_COLOR)
+    draw.text((PADDING, y), "Расписание на неделю", font=font_title, fill=TEXT_COLOR)
     y += 60
 
     for day in get_next_days():
@@ -50,16 +43,16 @@ def generate_week_image():
 
         # день
         day_str = day.strftime("%d.%m (%A)")
-        draw.text((PADDING, y), f"📆 {day_str}", font=font_day, fill=TEXT_COLOR)
+        draw.text((PADDING, y), f"{day_str}", font=font_day, fill=TEXT_COLOR)
         y += 35
 
         if not events:
-            draw.text((PADDING + 10, y), "Нет пар 🎉", font=font_text, fill="gray")
+            draw.text((PADDING + 10, y), "Нет пар ", font=font_text, fill="gray")
             y += 40
             continue
 
         for event in events:
-            card_height = 90
+            card_height = 110
 
             event_type, place = parse_location(event.location)
             color = COLOR_MAP[event_type]
