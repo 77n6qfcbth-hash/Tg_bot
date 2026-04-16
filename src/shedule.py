@@ -28,7 +28,7 @@ def format_events(events, title=""):
 
     for event in events:
         text += (
-            f"🕐 {event.begin.to('Europe/Samara').strftime('%H:%M')} - {event.begin.to('Europe/Samara').strftime('%H:%M')}\n"
+            f"🕐 {event.begin.to('Europe/Samara').strftime('%H:%M')} - {event.end.to('Europe/Samara').strftime('%H:%M')}\n"
             f"📘 {event.name}\n"
             f"📍 {event.location}\n"
             f"👨‍🏫 {event.description}\n\n"
